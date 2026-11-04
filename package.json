@@ -1,0 +1,12 @@
+{
+  "name": "speedy-quiz",
+  "version": "1.0.0",
+  "description": "Fast-paced quiz game",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -p 3000"
+  },
+  "keywords": ["quiz", "game"],
+  "author": "",
+  "license": "MIT"
+}
